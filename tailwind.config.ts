@@ -9,7 +9,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans:["Outfit", "serif"]
+        sans: ["Kanit", "serif"]
       },
       colors: {
         background: "var(--background)",
